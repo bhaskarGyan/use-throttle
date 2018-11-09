@@ -1,0 +1,30 @@
+{
+  "name": "use-throttle",
+  "version": "0.0.2",
+  "description": "Throttle hook for react",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel ./src --out-dir ./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bhaskarGyan/use-throttle.git"
+  },
+  "keywords": [
+    "throttle",
+    "react-hook",
+    "react"
+  ],
+  "author": "Bhaskar Gyan Vardhan (vardhan.bhaskar@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhaskarGyan/use-throttle/issues"
+  },
+  "peerDependencies": {},
+  "homepage": "https://github.com/bhaskarGyan/use-throttle#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
