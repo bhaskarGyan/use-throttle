@@ -1,6 +1,6 @@
 {
   "name": "use-throttle",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Throttle hook for react",
   "main": "lib/index.js",
   "scripts": {
